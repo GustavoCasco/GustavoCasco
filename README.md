@@ -10,7 +10,7 @@ I am passionate about solving problems and learning. Always open to new challeng
 # Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Casco-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-casco/)](https://www.linkedin.com/in/gustavo-casco/)
-![Gmail Badge](https://img.shields.io/badge/-gugugacasco007@gmail.com-%CC2927?style=flat-square&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-gugugacasco007@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
 
 ## Programming languages
 
