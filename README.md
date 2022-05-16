@@ -3,7 +3,7 @@
 </div>
 
 <p><i>Desenvolvedor júnior full stack, tendo como forte a programação na linguagem java</i></p>
-<p><i>Formado no curso de técnico desenvolvimento de sistemas pela instituição SENAI, atualmente graduante de Análise e desenvolvimento de sistemas</i></p>
+<p><i>Formado no curso de técnico desenvolvimento de sistemas pela instituição SENAI, <br> atualmente graduante de Análise e desenvolvimento de sistemas</i></p>
 
 <div align="center">
   <a href="https://github.com/GustavoCasco">
@@ -19,12 +19,13 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
   <img align="center" alt="Java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"> 
+  <img align="center" alt="PAAS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg> 
 </div><br>
 
 <div align="center">
