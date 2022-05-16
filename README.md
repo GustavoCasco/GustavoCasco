@@ -2,8 +2,8 @@
   <h1 align="center">Olá, Eu sou o <a href="https://www.linkedin.com/in/guszacha/"><i>Gustavo Casco Zacharias</i></a> 😃️</h1>
 </div>
 
-<p><i>Desenvolvedor júnior full stack, tendo como forte a programação na linguagem java</i></p>
-<p><i>Formado no curso de técnico desenvolvimento de sistemas pela instituição SENAI, <br> atualmente graduante de Análise e desenvolvimento de sistemas</i></p>
+<p align="center"><i>Desenvolvedor júnior full stack, tendo como forte a programação na linguagem java</i></p>
+<p align="center"><i>Formado no curso de técnico desenvolvimento de sistemas pela instituição SENAI, <br> atualmente graduante de Análise e desenvolvimento de sistemas</i></p>
 
 <div align="center">
   <a href="https://github.com/GustavoCasco">
