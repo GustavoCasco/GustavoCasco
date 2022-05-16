@@ -3,7 +3,7 @@
 </div>
 
 <p align="center"><i>Desenvolvedor júnior full stack, tendo como forte a programação na linguagem java</i></p>
-<p align="center"><i>Formado no curso de técnico desenvolvimento de sistemas pela instituição SENAI, atualmente graduante de Analise e desenvolvimento de sistemas</i></p>
+<p align="center"><i>Formado no curso de técnico desenvolvimento de sistemas pela instituição SENAI, atualmente graduante de Análise e desenvolvimento de sistemas</i></p>
 
 <div align="center">
   <a href="https://github.com/GustavoCasco">
