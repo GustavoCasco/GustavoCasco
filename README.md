@@ -12,8 +12,6 @@
   </a>
 </div>
 
-
-<h3 align="center"><i>Linguagens</i></h3>
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> 
@@ -37,3 +35,4 @@
   <a href="mailto:gustavoo.cascoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/GustavoCasco/GustavoCasco/blob/output/github-contribution-grid-snake.svg)
