@@ -3,7 +3,7 @@
 </div>
 
 <p align="center"><i>Desenvolvedor back-end</i></p>
-<p align="center"><i>Formado no curso de técnico desenvolvimento de sistemas pela instituição SENAI e formado no curso Análise e desenvolvimento de sistemas na faculdade UNICID <br> Atualmente pós-graduante de MBA Engenharia de software na USP ESALQ</i></p>
+<p align="center"><i>Formado no curso de técnico desenvolvimento de sistemas pela instituição SENAI e formado no curso Análise e desenvolvimento de sistemas na faculdade UNICID</i></p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
